@@ -27,8 +27,6 @@ const toggleButton = document.getElementById('toggle-theme');
            alert('More details about this project!');
        });
    });
-  
-  javascript
    const backToTop = document.getElementById('back-to-top');
    window.addEventListener('scroll', () => {
        if (window.scrollY > 300) {
